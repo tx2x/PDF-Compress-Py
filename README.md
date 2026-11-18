@@ -3,11 +3,11 @@
 Batch PDF compression for Windows and Linux, powered by [Ghostscript](https://ghostscript.com/).
 One Python file, no `pip install`, and it keeps going where simpler wrappers give up.
 
-![Screenshot](screenshot.png)
-
 ![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platforms](https://img.shields.io/badge/platform-Windows%2010%2B%20%7C%20Linux-lightgrey)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
+![Screenshot](screenshot.png)
 
 ```text
   [1/5] damaged_report.pdf
